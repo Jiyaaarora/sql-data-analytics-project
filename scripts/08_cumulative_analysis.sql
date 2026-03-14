@@ -12,7 +12,7 @@ SQL Functions Used:
 ===============================================================================
 */
 
--- Calculate the total sales per month 
+-- Calculate the total sales per year
 -- and the running total of sales over time 
 SELECT
 	order_date,
